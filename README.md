@@ -22,6 +22,6 @@ Senior Middleware Engineer | IBM MQ | WebSphere | DevOps | Cloud Automation
 - CI/CD pipeline automation using Jenkins and Git
 
 ## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/kamidipreethi
+- LinkedIn: www.linkedin.com/in/preethik525
 - Email: kamidipreethi5@gmail.com
 - Phone : +1-984-343-4116
